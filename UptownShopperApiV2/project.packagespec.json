@@ -1,0 +1,36 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/uptownjimmy/Dropbox/uJ/NET/UptownShopperApiV2/UptownShopperApiV2/UptownShopperApiV2.csproj",
+    "projectName": "UptownShopperApiV2",
+    "projectPath": "/Users/uptownjimmy/Dropbox/uJ/NET/UptownShopperApiV2/UptownShopperApiV2/UptownShopperApiV2.csproj",
+    "outputPath": "/Users/uptownjimmy/Dropbox/uJ/NET/UptownShopperApiV2/UptownShopperApiV2/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Dapper": {
+          "target": "Package",
+          "version": "1.50.4-alpha1-00070"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Npgsql": {
+          "target": "Package",
+          "version": "3.2.5"
+        }
+      }
+    }
+  }
+}

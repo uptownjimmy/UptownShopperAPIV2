@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="uptownshopper@uptownjimmydbinstance1.cl3jqrc7m9jt.us-east-1.rds.amazonaws.com" uuid="d2850473-3f00-453c-ac39-544013fe97ee">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://uptownjimmydbinstance1.cl3jqrc7m9jt.us-east-1.rds.amazonaws.com:5432/uptownshopper</jdbc-url>
+    </data-source>
+  </component>
+</project>

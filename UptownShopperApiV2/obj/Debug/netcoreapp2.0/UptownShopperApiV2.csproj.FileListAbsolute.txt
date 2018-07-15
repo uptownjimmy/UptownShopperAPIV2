@@ -1,0 +1,10 @@
+/Users/uptownjimmy/Dropbox/uJ/NET/UptownShopperApiV2/UptownShopperApiV2/bin/Debug/netcoreapp2.0/UptownShopperApiV2.deps.json
+/Users/uptownjimmy/Dropbox/uJ/NET/UptownShopperApiV2/UptownShopperApiV2/bin/Debug/netcoreapp2.0/UptownShopperApiV2.runtimeconfig.json
+/Users/uptownjimmy/Dropbox/uJ/NET/UptownShopperApiV2/UptownShopperApiV2/bin/Debug/netcoreapp2.0/UptownShopperApiV2.runtimeconfig.dev.json
+/Users/uptownjimmy/Dropbox/uJ/NET/UptownShopperApiV2/UptownShopperApiV2/bin/Debug/netcoreapp2.0/UptownShopperApiV2.dll
+/Users/uptownjimmy/Dropbox/uJ/NET/UptownShopperApiV2/UptownShopperApiV2/bin/Debug/netcoreapp2.0/UptownShopperApiV2.pdb
+/Users/uptownjimmy/Dropbox/uJ/NET/UptownShopperApiV2/UptownShopperApiV2/obj/Debug/netcoreapp2.0/UptownShopperApiV2.csproj.CoreCompileInputs.cache
+/Users/uptownjimmy/Dropbox/uJ/NET/UptownShopperApiV2/UptownShopperApiV2/obj/Debug/netcoreapp2.0/UptownShopperApiV2.AssemblyInfoInputs.cache
+/Users/uptownjimmy/Dropbox/uJ/NET/UptownShopperApiV2/UptownShopperApiV2/obj/Debug/netcoreapp2.0/UptownShopperApiV2.AssemblyInfo.cs
+/Users/uptownjimmy/Dropbox/uJ/NET/UptownShopperApiV2/UptownShopperApiV2/obj/Debug/netcoreapp2.0/UptownShopperApiV2.dll
+/Users/uptownjimmy/Dropbox/uJ/NET/UptownShopperApiV2/UptownShopperApiV2/obj/Debug/netcoreapp2.0/UptownShopperApiV2.pdb

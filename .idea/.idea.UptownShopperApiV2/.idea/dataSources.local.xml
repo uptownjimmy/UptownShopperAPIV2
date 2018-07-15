@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="uptownshopper@uptownjimmydbinstance1.cl3jqrc7m9jt.us-east-1.rds.amazonaws.com" uuid="d2850473-3f00-453c-ac39-544013fe97ee">
+      <database-info product="PostgreSQL" version="9.5.4" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>uptownjimmy</user-name>
+      <introspection-schemas>uptownshopper:*</introspection-schemas>
+    </data-source>
+  </component>
+</project>
