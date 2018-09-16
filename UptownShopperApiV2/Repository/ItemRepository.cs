@@ -29,6 +29,7 @@ namespace UptownShopperApiV2.Repository
 
                 var p = new DynamicParameters();
                 p.Add("@_item_id"); //default value is null
+                p.Add("@_active", null); //default value is null
 
                 var items = dbConnection.Query<Item>("shopper.fn_get_item", p, commandType: CommandType.StoredProcedure);
 
@@ -66,6 +67,7 @@ namespace UptownShopperApiV2.Repository
 
                 var p = new DynamicParameters();
                 p.Add("@_item_id", id);
+                p.Add("@_active", null); //default value is null
 
                 var item = dbConnection.Query<Item>("shopper.fn_get_item", p, commandType: CommandType.StoredProcedure).SingleOrDefault();
 
